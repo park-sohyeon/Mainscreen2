@@ -721,7 +721,7 @@
                         android:id="@+id/checkBox57"
                         android:layout_width="match_parent"
                         android:gravity="center"
-                        android:text="@string/_2880_1800"
+                        android:text="2800*"
                         android:textSize="18sp" />
 
                     <CheckBox
